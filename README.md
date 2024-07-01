@@ -12,7 +12,7 @@ Re-created a JavaScript budget tracking app using plain JavaScript, HTML, and CS
 
 ### Running
 
-After downloading or cloning the repo, use Live Server (or your tool of chose) to run the application locally on [localhost:5500](http://localhost:5500/).
+After downloading or cloning the repo, use Live Server (or your tool of chose) to run the application locally on [port 8080](http://127.0.0.1:8080/).
 
 ## Deployed
 
