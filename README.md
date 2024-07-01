@@ -13,7 +13,7 @@ After downloading or cloning the repo, use Live Server (or your tool of choice) 
 
 ## Deployed
 
-Deployed on [GitHub Pages](https://github.com/AzumaraJoseph/Budgety-App)
+Deployed on [GitHub Pages](https://AzumaraJoseph.github.io/Budgety-App)
 
 ## Built With
 - Vanilla JavaScript
