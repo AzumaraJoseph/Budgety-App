@@ -18,13 +18,6 @@ git clone https://github.com/AzumaraJoseph/Budgety-App.git
 # Navigate to the project directory
 cd Budgety-App
 
-# Install dependencies
-npm install
-
-# or if you use yarn
-yarn install
-
-
 ## Bootstrap the application
 live-server
 ```
